@@ -32,8 +32,22 @@ categories.append(category3)
 categories.append(category4)
 
 books = [];
-book1 = [1, 1, "Michael Jordan: The Life", "Roland Lazenby", "13-9780316194761", "20.00", "mj.png", 1]
-book2 = [2, 1, "
+book1 = [1, 1, "Michael Jordan: The Life", "Roland Lazenby", "13-9780316194761", "20.00", "mj.jpg", 1]
+book2 = [2, 1, "Lebron James: The Rise of a Star", "David Morgan", "13-9781886228740", "20.00", "lbj.jpg",0]
+book3 = [3, 1, "On the Court With...Stephen Curry", "Matt Christopher", "13-9780316509589", "7.00", "steph.jpg", 1]
+book4 = [4, 1, "Allen Iverson", "John N Smallwood, Jr", "13-9781476751603", "18.00", "ai.jpg", 0]
+
+book5 = [5, 2, "Messi", "Harry Conix", "13-9781948585873", "10.00", "messi.jpg", 0]
+book6 = [6, 2, "Cristiano Ronaldo", "Brianna Battista", "13-9781538344729", "10.00", "ronaldo.jpg",1]
+book7 = [7, 2, "Zidane", "Patrick Fort", "13-9781785038488", "39.00", "zidane.jpg",0]
+book8 = [8, 2, "Bale-The Biography", "Frank Worrall", "13-9781843583943", "19.00", "bale.jpg", 1]
+
+book9 = [9, 3, "Sabrina Ionescu: Rising Basketball Star", "Matt Chandler", "13-9781663983626", "13.00", "sab.jpg", 1]
+book10 = [10, 3, "Caitlin Clark: Basketnall Superstar", "Anthony K Hewson", "13-9781634949361", "5.00", "clark.jpg", 0]
+
+
+
+
 
 
 
