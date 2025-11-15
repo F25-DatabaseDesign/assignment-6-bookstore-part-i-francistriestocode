@@ -32,6 +32,8 @@ categories.append(category3)
 categories.append(category4)
 
 books = [];
+book1 = [1, 1, "Michael Jordan: The Life", "Roland Lazenby", "13-9780316194761", "20.00", "mj.png", 1]
+book2 = [2, 1, "
 
 
 
