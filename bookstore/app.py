@@ -44,6 +44,13 @@ book8 = [8, 2, "Bale-The Biography", "Frank Worrall", "13-9781843583943", "19.00
 
 book9 = [9, 3, "Sabrina Ionescu: Rising Basketball Star", "Matt Chandler", "13-9781663983626", "13.00", "sab.jpg", 1]
 book10 = [10, 3, "Caitlin Clark: Basketnall Superstar", "Anthony K Hewson", "13-9781634949361", "5.00", "clark.jpg", 0]
+book11 = [11, 3, "Angel Reese", "Kim Thompson", "13-9798892006330", "11.00", "reese.jpg", 0]
+book12 = [12, 3, "A'Ja Wilson", "Tracy Abell", "13-9781637391273", "5.00", "wilson.jpg", 1]
+
+book13 = [13, 4, "Simone Biles: Greatest Gymnast of All Time", "Caitie McAneney", "13-9781508160700", "10.00", "biles.jpg", 1]
+book14 = [14, 4, "Faster Than Lightning: My Autobiography", "Usain Bolt", "13-9780007371426", "16.00", "bolt.jpg", 0]
+book15 = [15, 4, "Roger Federer: The Biography", "Ren Stauffer", "13-9781913538910", "15.00", "fed.jpg", 1]
+book16 = [116, 4, "99: Stories of the Game", "Wayne Gretzky", "13-9780735232624", "28.00", "wayne.jpg", 0]
 
 
 
