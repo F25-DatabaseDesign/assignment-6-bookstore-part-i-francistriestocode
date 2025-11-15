@@ -21,6 +21,15 @@ app = Flask(__name__)
 #   An example of a single category list is: [1, 1, "Madonna", "Andrew Morton", "13-9780312287863", 39.99, "madonna.png", 1]
 
 categories = [];
+category1 = [1, "NBA"]
+category2 = [2, "Soccer"]
+category3 = [3, "WNBA"]
+category4 = [4, "Olympics"]
+
+categories.append(category1)
+categories.append(category2)
+categories.append(category3)
+categories.append(category4)
 
 books = [];
 
