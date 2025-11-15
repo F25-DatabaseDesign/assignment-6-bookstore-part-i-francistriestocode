@@ -20,6 +20,7 @@ app = Flask(__name__)
 #   readNow    (This should be either 1 or 0.  For each category, some of the books (but not all) should have this set to 1.
 #   An example of a single category list is: [1, 1, "Madonna", "Andrew Morton", "13-9780312287863", 39.99, "madonna.png", 1]
 
+categories = [];
 
 
 # set up routes
