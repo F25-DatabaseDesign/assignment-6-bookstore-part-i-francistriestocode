@@ -22,6 +22,9 @@ app = Flask(__name__)
 
 categories = [];
 
+books = [];
+
+
 
 # set up routes
 @app.route('/')
